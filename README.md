@@ -1,3 +1,6 @@
  _computing-work_ 
-_hihihihihihi_
 *hello*
+I am _Chew Yi Jun_ from Dunman High School
+> My hobbies
+dancing
+sleeping
